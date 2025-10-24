@@ -6,4 +6,6 @@ It focuses on operational consolidation, selective expansion, and capability enh
 
 Disclaimer: This case is purely illustrative and academic. It is not affiliated with or endorsed by Swissport or its stakeholders and it is based only on publid data.
 
+📄 [Download the PDF](./Swissport%20-%20M%26A%20Value%20Creation%20Framework.pdf)
+
 
